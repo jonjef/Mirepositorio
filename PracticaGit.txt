@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="estilos10.css">
+    
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+    
+
+     <title>Practicadividida</title>
+</head>
+
+
+
+
+
+<body>
+
+    <section class="contenedordividido"> 
+
+        
+
+            <div class="contenedorizquierdo">
+
+                <h1> VENÍ A  <span> CONOCERNOS</span> </h1>
+
+
+                <P> Te esperamos en la tierra de los vientos glaciales, para difrutar  de nuestros sabores 
+                    frescos y experimentar la calidez de nuestra gente. La combinación perfecta entre quietud, sabor y calidez hará que vivas una experiencia sencilla e inolvidable. El Calafate te espera. Nosotros te esperamos.  </P>
+
+                    <div class="estiloboton">  <a href="" class="boton"> ¡QUIERO RESERVAR!</a>
+                    
+                    
+                    </div>
+
+
+
+
+
+
+
+
+
+
+            </div>
+
+            <div class="contenedorderecho">
+
+
+
+
+            </div>
+
+    </section>
+
+
+
+
+
+
+
+
+        
+  
+</body>
+</html>
